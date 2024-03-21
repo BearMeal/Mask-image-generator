@@ -16,4 +16,5 @@ python main.py
 - Press the '1' key to select the parts to restore and then press 'n' to apply the changes.
 - To save, click 's' key and then you can continue the work 
 - To exit, click 'esc' key
+- To adjust the pen size '[', ']' 
 - check the results in /output folder
