@@ -14,7 +14,7 @@ python main.py
 - Select the area of the object with a right-click and then press 'n' to apply the changes.
 - Press the '0' key and use left-click to remove unnecessary parts of the object and then press 'n' to apply the changes.
 - Press the '1' key to select the parts to restore and then press 'n' to apply the changes.
-- To save, click 's' key and then you can continue the work 
-- To exit, click 'esc' key
-- To adjust the pen size '[', ']' 
-- check the results in /output folder
+- To save, Press the 's' key and then you can continue the work 
+- To exit, Press the 'esc' key
+- To adjust the pen size, Press the '[' or ']' keys
+- To check the results, Look in /output folder
