@@ -7,6 +7,7 @@
 ```
 python main.py
 ```
+- if you want jupyter, check grabcut.ipynb   
 
 - Select image.
 - You can see three windows image, mask, grabcut.
