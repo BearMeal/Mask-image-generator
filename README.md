@@ -1,5 +1,6 @@
 # Mask_generator
 ## 설명
+![result](result.jpg)
 - The GrabCut algorithm is used to extract objects and create a mask image of the extracted object. This allows for the creation of features (original image) and targets (mask image).
 
 ## How to use
