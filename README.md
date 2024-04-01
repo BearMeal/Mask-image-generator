@@ -13,7 +13,7 @@ python main.py
 - Select image.
 - You can see three windows image, mask, grabcut.
 - Adjust the window size appropriately.
-- Select the area of the object with a right-click and then press 'n' to apply the changes.
+- Select the area of the object with a right-click drag and then press 'n' to apply the changes.
 - Press the '0' key and use left-click to remove unnecessary parts of the object and then press 'n' to apply the changes.
 - Press the '1' key to select the parts to restore and then press 'n' to apply the changes.
 - To save, Press the 's' key and then you can continue the work 
